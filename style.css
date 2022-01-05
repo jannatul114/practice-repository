@@ -1,9 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&family=Waterfall&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+
 body{
     margin: 0px;
     padding: 0px;
-    font-family: 'Shizuru', cursive;
+    /* font-family: 'Shizuru', cursive; */
+    /* font-family: 'Waterfall', cursive; */
+    font-family: 'Pacifico', cursive;
+    color:#274D7B;
 }
 
 h1{
@@ -171,7 +180,10 @@ nav img{
     margin-right: 2%;
 }
 
-
+#footer{
+    text-align: center;
+    margin-top: 100px;
+}
 
 
 
