@@ -26,6 +26,9 @@ p{
 .top-banner{
     display: flex;
     padding-top: 60px;
+    background-image: url(images/top-banner.webp);
+    background-repeat: no-repeat;
+    padding-bottom: 43px;
 }
 
 .half-width img{
@@ -185,7 +188,9 @@ nav img{
     margin-top: 100px;
 }
 
-
+.top-text{
+    color: #F4B317;
+}
 
 
 
